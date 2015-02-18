@@ -1,3 +1,10 @@
+---
+layout: default
+title: "BUS404: Risk Management"
+course_description: "An exploration of how businesses identify, analyze, and manage the impact of project risk while making critical decisions while creating value for customers and a competitive advantage for the firm."
+next: ../Unit01
+previous: ../../../
+---
 Course Syllabus for "BUS404: Risk Management"
 ---------------------------------------------
 

@@ -1,3 +1,10 @@
+---
+layout: default
+title: "BUS404: Risk Management"
+course_description: "An exploration of how businesses identify, analyze, and manage the impact of project risk while making critical decisions while creating value for customers and a competitive advantage for the firm."
+next: ../Unit04
+previous: ../Unit02
+---
 **Unit 3: Risk Attitudes and Expected Utility Theory** <span
 id="3"></span> 
 *The previous unit introduced the most commonly used ways in which we

@@ -1,3 +1,10 @@
+---
+layout: default
+title: "BUS404: Risk Management"
+course_description: "An exploration of how businesses identify, analyze, and manage the impact of project risk while making critical decisions while creating value for customers and a competitive advantage for the firm."
+next: ../Unit07
+previous: ../Unit05
+---
 **Unit 6: Risk Management: Advanced Tools** <span id="6"></span> 
 *This final unit will introduce you to advanced risk management tools. 
 You will learn how to use data analytics, modeling, and simulation to

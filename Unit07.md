@@ -1,3 +1,10 @@
+---
+layout: default
+title: "BUS404: Risk Management"
+course_description: "An exploration of how businesses identify, analyze, and manage the impact of project risk while making critical decisions while creating value for customers and a competitive advantage for the firm."
+next: ../../../
+previous: ../Unit06
+---
 **Unit 7: Final Exam** <span id="7"></span> 
 -   **Final Exam: The Saylor Foundation's BUS404 Final Exam**
     Link: The Saylor Foundation's [BUS404 Final

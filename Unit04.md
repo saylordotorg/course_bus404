@@ -1,3 +1,10 @@
+---
+layout: default
+title: "BUS404: Risk Management"
+course_description: "An exploration of how businesses identify, analyze, and manage the impact of project risk while making critical decisions while creating value for customers and a competitive advantage for the firm."
+next: ../Unit05
+previous: ../Unit03
+---
 **Unit 4: Risk Management: Fundamental Tools** <span id="4"></span> 
 *In the prior units, we discussed risks at length from a variety of
 angles. With this unit, we finally begin the discussion of risk
