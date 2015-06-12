@@ -116,11 +116,11 @@ However, in order to adequately prepare for this exam, you will need to
 work through all of the resources in the course as well as the
 assessments and activity listed above.  
     
- In order to “pass” this course, you will need to earn a 70% or higher
+In order to “pass” this course, you will need to earn a 70% or higher
 on the Final Exam.  Your score on the exam will be tabulated as soon as
 you complete it.  If you do not pass the exam, you may take it again.  
     
- **Time Commitment:** This course should take you a total of **74.5
+**Time Commitment:** This course should take you a total of **74.5
 hours** to complete.  Each unit includes a “time advisory” that lists
 the amount of time you are expected to spend on each subunit.  These
 should help you plan your time accordingly.  It may be useful to take a
@@ -131,14 +131,14 @@ complete.  Perhaps you can sit down with your calendar and decide to
 complete subunits 1.1 through 1.3 (a total of 3 hours) on Monday night;
 subunits 1.4 and 1.5 (a total of 2 hours) on Tuesday night; etc.  
     
- **Tips/Suggestions: **If you are taking this elective, ideally you will
+**Tips/Suggestions: **If you are taking this elective, ideally you will
 have completed all of the courses in the Core Program of the Business
 Major, which consists of a selection of courses that focus on
 cross-functional business competencies but do not cover risk
 management.  
   
- The companion textbook, *[Risk Management for Enterprises and
-Individuals](http://catalog.flatworldknowledge.com/bookhub/reader/1?e=baranoff-ch01),*
+The companion textbook, *[Risk Management for Enterprises and
+Individuals](https://saylordotorg.github.io/text_risk-management-for-enterprises-and-individuals/),*
 uses “links” in each chapter to tie each concept and objective in the
 chapter to the realm of global or holistic management of risk.  The
 solutions to risk problems require a compilation of techniques and
