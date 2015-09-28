@@ -163,3 +163,4 @@ risk and holistic enterprise risk.
 - [Unit 5](https://legacy.saylor.org/bus404/Unit05/)
 - [Unit 6](https://legacy.saylor.org/bus404/Unit06/)
 - [Unit 7](https://legacy.saylor.org/bus404/Unit07/)
+- [Final Exam](http://saylordotorg.github.io/LegacyExams/BUS/BUS404/BUS404-FinalExam.html), [Answers](http://saylordotorg.github.io/LegacyExams/BUS/BUS404/BUS404-FinalExam-Answers.html)
