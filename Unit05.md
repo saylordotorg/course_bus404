@@ -65,7 +65,7 @@ id="5.1"></span> 
     Link: *Risk Management for Enterprises and Individuals*: “Chapter 5:
     The Evolution of Risk Management: Enterprise Risk
     Management:”[“Section 5.1: Enterprise Risk Management within Firm
-    Goals”](http://www.saylor.org/site/wp-content/uploads/2013/06/Risk-Management-Ch5.pdf)
+    Goals”](https://resources.saylor.org/archived/wp-content/uploads/2013/06/Risk-Management-Ch5.pdf)
     (HTML)  
         
      Instructions: Please click on the link above, and read Section 5.1
@@ -151,7 +151,7 @@ id="5.3"></span> 
     Link: *Risk Management for Enterprises and Individuals*: “Chapter 5:
     The Evolution of Risk Management: Enterprise Risk
     Management:”[“Section 5.2: Risk Management and the Firm’s Financial
-    Statement”](http://www.saylor.org/site/wp-content/uploads/2013/06/Risk-Management-Ch5.pdf)
+    Statement”](https://resources.saylor.org/archived/wp-content/uploads/2013/06/Risk-Management-Ch5.pdf)
     (HTML)  
         
      Instructions: Please click on the link above, and read Section 5.2
@@ -176,7 +176,7 @@ id="5.4"></span> 
     Link: *Risk Management for Enterprises and Individuals*: “Chapter 5:
     The Evolution of Risk Management: Enterprise Risk
     Management:”[“Section 5.3: Risk Management Using the Capital
-    Markets”](http://www.saylor.org/site/wp-content/uploads/2013/06/Risk-Management-Ch5.pdf)
+    Markets”](https://resources.saylor.org/archived/wp-content/uploads/2013/06/Risk-Management-Ch5.pdf)
     (HTML)  
         
      Instructions: Please click on the link above, and read Section 5.3
@@ -295,9 +295,9 @@ id="5.6"></span> 
 
 -   **Assessment: The Saylor Foundation's "Unit 5 Assessment"**
     Link: The Saylor Foundation's "[Unit 5
-    Assessment](http://www.saylor.org/site/wp-content/uploads/2012/08/BUS404-Unit-5-Assessment-FINAL.pdf)"
+    Assessment](https://resources.saylor.org/archived/wp-content/uploads/2012/08/BUS404-Unit-5-Assessment-FINAL.pdf)"
     (PDF) and "[Unit 5 Assessment Answer
-    Key](http://www.saylor.org/site/wp-content/uploads/2012/08/BUS404-Unit-5-Assessment-Answer-Key-FINAL.pdf)"
+    Key](https://resources.saylor.org/archived/wp-content/uploads/2012/08/BUS404-Unit-5-Assessment-Answer-Key-FINAL.pdf)"
     (PDF).  
       
      Instructions: Complete this assessment after you finish the

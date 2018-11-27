@@ -52,7 +52,7 @@ Upon completion of this unit, students will be able to:
      Link: *Risk Management for Enterprises and Individuals:*“Chapter 3:
     Risk Attitudes: Expected Utility Theory and Demand for Hedging:”
     [“Section 3.1: Utility
-    Theory”](http://www.saylor.org/site/wp-content/uploads/2013/06/Risk-Management-Ch3.pdf)
+    Theory”](https://resources.saylor.org/archived/wp-content/uploads/2013/06/Risk-Management-Ch3.pdf)
     (HTML)  
         
      Instructions: Please click on the link above, and read Section 3.1
@@ -74,7 +74,7 @@ id="3.2"></span> 
     Link: *Risk Management for Enterprises and Individuals*: “Chapter 3:
     Risk Attitudes: Expected Utility Theory and Demand for Hedging:”
     [“Section 3.2: Uncertainty, Expected Value, and Fair
-    Games”](http://www.saylor.org/site/wp-content/uploads/2013/06/Risk-Management-Ch3.pdf)
+    Games”](https://resources.saylor.org/archived/wp-content/uploads/2013/06/Risk-Management-Ch3.pdf)
     (HTML)  
         
      Instructions: Please click on the link above, and read Section 3.2
@@ -96,7 +96,7 @@ id="3.3"></span> 
     Link: *Risk Management for Enterprises and Individuals*: “Chapter 3:
     Risk Attitudes: Expected Utility Theory and Demand for Hedging:”
     [“Section 3.3: Choice under Uncertainty: Expected Utility
-    Theory”](http://www.saylor.org/site/wp-content/uploads/2013/06/Risk-Management-Ch3.pdf)
+    Theory”](https://resources.saylor.org/archived/wp-content/uploads/2013/06/Risk-Management-Ch3.pdf)
     (HTML)  
         
      Instructions: Please click on the link above, and read Section 3.3
@@ -118,7 +118,7 @@ id="3.4"></span> 
     Link: *Risk Management for Enterprises and Individuals*:“Chapter 3:
     Risk Attitudes: Expected Utility Theory and Demand for Hedging:”
     [“Section 3.4: Biases Affecting Choice under
-    Uncertainty”](http://www.saylor.org/site/wp-content/uploads/2013/06/Risk-Management-Ch3.pdf)  
+    Uncertainty”](https://resources.saylor.org/archived/wp-content/uploads/2013/06/Risk-Management-Ch3.pdf)  
         
      Instructions: Please click on the link above, and read Section 3.4
     in its entirety for an introduction to behavioral economics and
@@ -151,7 +151,7 @@ and Anchoring Bias.”*
     Link: *Risk Management for Enterprises and Individuals*: “Chapter 3:
     Risk Attitudes: Expected Utility Theory and Demand for Hedging:”
     [“Section 3.5: Risk Aversion and Price of
-    Hedging”](http://www.saylor.org/site/wp-content/uploads/2013/06/Risk-Management-Ch3.pdf)
+    Hedging”](https://resources.saylor.org/archived/wp-content/uploads/2013/06/Risk-Management-Ch3.pdf)
     (HTML)  
         
      Instructions: Please click on the link above, and read Section 3.5
@@ -188,9 +188,9 @@ and Anchoring Bias.”*
 
 -   **Assessment: The Saylor Foundation’s “Assessment for Unit 3”**
     Link: The Saylor Foundation’s “[Assessment for Unit
-    3](http://www.saylor.org/site/wp-content/uploads/2012/08/BUS404-Unit-3-Assessment-FINAL.pdf)”
+    3](https://resources.saylor.org/archived/wp-content/uploads/2012/08/BUS404-Unit-3-Assessment-FINAL.pdf)”
     (PDF) and “[Unit 3 Answer
-    Key](http://www.saylor.org/site/wp-content/uploads/2012/08/BUS404-Unit-3-Assessment-Answer-Key-FINAL.pdf)”
+    Key](https://resources.saylor.org/archived/wp-content/uploads/2012/08/BUS404-Unit-3-Assessment-Answer-Key-FINAL.pdf)”
     (PDF).  
         
      Instructions: Complete this assessment after you finish the
