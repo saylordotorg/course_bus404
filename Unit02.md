@@ -43,7 +43,7 @@ id="2.1"></span> 
     Link: *Risk Management for Enterprises and Individuals*: “Chapter 2:
     Risk Measurement and Metrics:” [“Section 2.1: Quantification of
     Uncertainty via Probability
-    Models”](https://resources.saylor.org/archived/wp-content/uploads/2013/06/Risk-Management-Ch2.pdf)
+    Models”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2013/06/Risk-Management-Ch2.pdf)
     (HTML)  
         
      Instructions: Please click on the link above, and read Section 2.1
@@ -122,7 +122,7 @@ uncertain endeavor.*
     Link: *Risk Management for Enterprises and Individuals*: “Chapter 2:
     Risk Measurement and Metrics:” [“Section 2.2: Measures of Risk:
     Putting It
-    Together”](https://resources.saylor.org/archived/wp-content/uploads/2013/06/Risk-Management-Ch2.pdf)
+    Together”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2013/06/Risk-Management-Ch2.pdf)
     (HTML)  
         
      Instructions: Please click on the link above, and read Section 2.2
@@ -189,9 +189,9 @@ Focus on the text below the heading “Capital Asset Pricing Model.”*
 **Subunit 2.2 Assessment** <span id="2.2.4"></span> 
 -   **Assessment: The Saylor Foundation’s “Assessment for Subunit 2.2”**
     Link: The Saylor Foundation’s “[Assessment for Subunit
-    2.2](https://resources.saylor.org/archived/wp-content/uploads/2012/08/BUS404-Subunit-2.2-Assessment-FINAL.pdf)”
+    2.2](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/08/BUS404-Subunit-2.2-Assessment-FINAL.pdf)”
     (PDF) and “[Subunit 2.2 Answer
-    Key](https://resources.saylor.org/archived/wp-content/uploads/2012/08/BUS404-Subunit-2.2-Assessment-Answer-Key-FINAL.pdf)”
+    Key](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/08/BUS404-Subunit-2.2-Assessment-Answer-Key-FINAL.pdf)”
     (PDF).  
         
      Instructions: Complete this assessment after you finish the

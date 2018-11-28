@@ -72,7 +72,7 @@ Upon completion of this unit, students will be able to:
     Link: *Risk Management for Enterprises and Individuals*: “Chapter 4:
     Evolving Risk Management: Fundamental Tools:” [“Section 4.1: The
     Risk Management
-    Function”](https://resources.saylor.org/archived/wp-content/uploads/2013/06/Risk-Management-Ch4.pdf)
+    Function”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2013/06/Risk-Management-Ch4.pdf)
     (HTML)  
         
      Instructions: Please click on the link above, and read Section 4.1
@@ -94,7 +94,7 @@ id="4.2"></span> 
     Link: *Risk Management for Enterprises and Individuals*: “Chapter 4:
     Evolving Risk Management: Fundamental Tools:” ["Section 4.2:
     Beginning Steps: Communication and
-    Identification"](https://resources.saylor.org/archived/wp-content/uploads/2013/06/Risk-Management-Ch4.pdf)
+    Identification"](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2013/06/Risk-Management-Ch4.pdf)
     (HTML)  
         
      Instructions: Please click on the link above, and read Section 4.2
@@ -142,7 +142,7 @@ Budgeting** <span id="4.3"></span> 
     Link: *Risk Management for Enterprises and Individuals*: “Chapter 4:
     Evolving Risk Management: Fundamental Tools:” [“Section 4.3:
     Projected Frequency and Severity and Cost-Benefit Analysis—Capital
-    Budgeting”](https://resources.saylor.org/archived/wp-content/uploads/2013/06/Risk-Management-Ch4.pdf)
+    Budgeting”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2013/06/Risk-Management-Ch4.pdf)
     (HTML)  
         
      Instructions: Please click on the link above, and read Section 4.3
@@ -219,7 +219,7 @@ id="4.4"></span> 
     Link: *Risk Management for Enterprises and Individuals*:“Chapter 4:
     Evolving Risk Management: Fundamental Tools:” [“Section 4.4: Risk
     Management Alternatives: The Risk Management
-    Matrix”](https://resources.saylor.org/archived/wp-content/uploads/2013/06/Risk-Management-Ch4.pdf)
+    Matrix”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2013/06/Risk-Management-Ch4.pdf)
     (HTML)  
         
      Instructions: Please click on the link above, and read Section 4.4
@@ -268,7 +268,7 @@ id="4.5"></span> 
     Link: *Risk Management for Enterprises and Individuals*: “Chapter 4:
     Evolving Risk Management: Fundamental Tools:” [“Section 4.5:
     Comparisons to Current Risk-Handling
-    Methods”](https://resources.saylor.org/archived/wp-content/uploads/2013/06/Risk-Management-Ch4.pdf)
+    Methods”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2013/06/Risk-Management-Ch4.pdf)
     (HTML)  
         
      Instructions: Please click on the link above, and read Section 4.5
@@ -295,9 +295,9 @@ id="4.5"></span> 
 
 -   **Assessment: The Saylor Foundation’s “Assessment for Unit 4”**
     Link: The Saylor Foundation’s “[Assessment for Unit
-    4](https://resources.saylor.org/archived/wp-content/uploads/2012/08/BUS404-Unit-4-Assessment-FINAL.pdf)”
+    4](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/08/BUS404-Unit-4-Assessment-FINAL.pdf)”
     (PDF) and “[Unit 4 Answer
-    Key](https://resources.saylor.org/archived/wp-content/uploads/2012/08/BUS404-Unit-4-Assessment-Answer-Key-FINAL.pdf)”
+    Key](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/08/BUS404-Unit-4-Assessment-Answer-Key-FINAL.pdf)”
     (PDF).  
         
      Instructions: Complete this assessment after you finish the

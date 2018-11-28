@@ -47,7 +47,7 @@ Upon successful completion of this unit, the student will be able to: 
     Link: *Risk Management for Enterprises and Individuals:*“Chapter 1:
     The Nature of Risk: Losses and Opportunities:” [“Section 1.2: The
     Notion and Definition of
-    Risk”](https://resources.saylor.org/archived/wp-content/uploads/2013/06/Risk-Management-Ch1.pdf)
+    Risk”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2013/06/Risk-Management-Ch1.pdf)
     (HTML)  
         
      Instructions: Please click on the link above, and read Section 1.2
@@ -85,7 +85,7 @@ Risk in Decision-Making” as well as review Figure 1.3.*
     Link:*Risk Management for Enterprises and Individuals*: “Chapter 1:
     The Nature of Risk: Losses and Opportunities:” [“Section 1.3:
     Attitudes toward
-    Risks”](https://resources.saylor.org/archived/wp-content/uploads/2013/06/Risk-Management-Ch1.pdf)
+    Risks”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2013/06/Risk-Management-Ch1.pdf)
     (HTML)  
         
      Instructions: Please click on the link above, and read Section 1.3
@@ -107,7 +107,7 @@ Risk in Decision-Making” as well as review Figure 1.3.*
     Link: *Risk Management for Enterprises and Individuals*: “Chapter 1:
     The Nature of Risk: Losses and Opportunities:” [“Section 1.4: Types
     of
-    Risks”](https://resources.saylor.org/archived/wp-content/uploads/2013/06/Risk-Management-Ch1.pdf)
+    Risks”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2013/06/Risk-Management-Ch1.pdf)
     (HTML)  
         
      Instructions: Please click on the link above, and read Section 1.4
@@ -149,7 +149,7 @@ before moving on to the next subunit.*
     Link: *Risk Management for Enterprises and Individuals:*“Chapter 1:
     The Nature of Risk: Losses and Opportunities:” [“Section 1.5: Perils
     and
-    Hazards”](https://resources.saylor.org/archived/wp-content/uploads/2013/06/Risk-Management-Ch1.pdf)
+    Hazards”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2013/06/Risk-Management-Ch1.pdf)
     (HTML)  
         
      Instructions: Please click on the link above, and read Section 1.5
@@ -177,9 +177,9 @@ before moving on to the next subunit.*
 
 -   **Assessment: The Saylor Foundation’s “Assessment for Unit 1”**
     Link: The Saylor Foundation’s “[Assessment for Unit
-    1](https://resources.saylor.org/archived/wp-content/uploads/2012/08/BUS404-Unit-1-Assessment-FINAL.pdf)”
+    1](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/08/BUS404-Unit-1-Assessment-FINAL.pdf)”
     (PDF) and “[Unit 1 Answer
-    Key](https://resources.saylor.org/archived/wp-content/uploads/2012/08/BUS404-Unit-1-Assessment-Answer-Key-FINAL.pdf)”
+    Key](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/08/BUS404-Unit-1-Assessment-Answer-Key-FINAL.pdf)”
     (PDF).  
         
      Instructions: Complete this assessment after you finish the
