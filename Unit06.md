@@ -141,7 +141,7 @@ Upon successful completion of this unit, the student will be able to:
     Insurance”**
     Link: *Risk Management for Enterprises and Individuals*: “Chapter 6:
     The Insurance Institution and Solutions:” [“Section 6.2: Nature of
-    Insurance”](https://resources.saylor.org/archived/wp-content/uploads/2013/06/Risk-Management-Ch6.pdf)
+    Insurance”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2013/06/Risk-Management-Ch6.pdf)
     (HTML)  
         
      Instructions: Please click on the link above, and read Section 6.2
@@ -163,7 +163,7 @@ Upon successful completion of this unit, the student will be able to:
     Link: *Risk Management for Enterprises and Individuals*: “Chapter 6:
     The Insurance Institution and Solutions:” [“Section 6.3: Ideal
     Requisites on
-    Insurability”](https://resources.saylor.org/archived/wp-content/uploads/2013/06/Risk-Management-Ch6.pdf)
+    Insurability”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2013/06/Risk-Management-Ch6.pdf)
     (HTML)  
         
      Instructions: Please click on the link above, and read Section 6.3
@@ -184,7 +184,7 @@ Upon successful completion of this unit, the student will be able to:
     Link: *Risk Management for Enterprises and Individuals*: “Chapter 6:
     The Insurance Institution and Solutions:” [“Section 6.4: Types of
     Insurance and
-    Insurers”](https://resources.saylor.org/archived/wp-content/uploads/2013/06/Risk-Management-Ch6.pdf)
+    Insurers”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2013/06/Risk-Management-Ch6.pdf)
     (HTML)  
         
      Instructions: Please click on the link above, and read Section 6.4
@@ -261,9 +261,9 @@ Upon successful completion of this unit, the student will be able to:
 **Subunit 6.4 Assessment** <span id="6.4.4"></span> 
 -   **Assessment: The Saylor Foundation's "Subunit 6.4 Assessment"**
     Link: The Saylor Foundation's "[Subunit 6.4
-    Assessmen](https://resources.saylor.org/archived/wp-content/uploads/2012/08/BUS404-6.4-Assessment-FINAL.pdf)[t](https://resources.saylor.org/archived/wp-content/uploads/2012/08/BUS404-6.4-Assessment-FINAL.pdf)"
+    Assessmen](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/08/BUS404-6.4-Assessment-FINAL.pdf)[t](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/08/BUS404-6.4-Assessment-FINAL.pdf)"
     (PDF) and "[Subunit 6.4 Assessment Answer
-    Key](https://resources.saylor.org/archived/wp-content/uploads/2012/08/BUS404-6.4-Assessment-Answer-Key-FINAL.pdf)"
+    Key](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/08/BUS404-6.4-Assessment-Answer-Key-FINAL.pdf)"
     (PDF).  
       
      Instructions: Complete this assessment after you finish the
